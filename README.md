@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/sonisurya07/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sonisurya07/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sonisurya07/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Two Pointers
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/sonisurya07/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sonisurya07/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Combinatorics
 |  |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/sonisurya07/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sonisurya07/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Prefix Sum
 |  |
