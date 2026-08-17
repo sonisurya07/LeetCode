@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/sonisurya07/LeetCode/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/sonisurya07/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sonisurya07/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1563-stone-game-v](https://github.com/sonisurya07/LeetCode/tree/master/1563-stone-game-v) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sonisurya07/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/sonisurya07/LeetCode/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sonisurya07/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/sonisurya07/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/sonisurya07/LeetCode/tree/master/0877-stone-game) |
 | [1510-stone-game-iv](https://github.com/sonisurya07/LeetCode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/sonisurya07/LeetCode/tree/master/1563-stone-game-v) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sonisurya07/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sonisurya07/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Greedy
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/sonisurya07/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/sonisurya07/LeetCode/tree/master/0877-stone-game) |
 | [1510-stone-game-iv](https://github.com/sonisurya07/LeetCode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/sonisurya07/LeetCode/tree/master/1563-stone-game-v) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sonisurya07/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/sonisurya07/LeetCode/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sonisurya07/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -176,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/sonisurya07/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/sonisurya07/LeetCode/tree/master/0877-stone-game) |
 | [1510-stone-game-iv](https://github.com/sonisurya07/LeetCode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/sonisurya07/LeetCode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/sonisurya07/LeetCode/tree/master/2029-stone-game-ix) |
 ## Depth-First Search
 |  |
